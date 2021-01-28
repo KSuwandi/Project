@@ -12,9 +12,9 @@ public class Biodata {
       
         
       
-      System.out.println("Nama = Acika Difa");
-      System.out.println("Nim = 1920013212");
-        System.out.println("Kelas = 3SC1");
+      System.out.println("Nama = Kevin Suwandi");
+      System.out.println("Nim = 1920010112");
+        System.out.println("Kelas = 3SC2");
         System.out.println("Jurusan = Software Enginering ");
         System.out.println("\n");
         System.out.println("--- Print Biodata seminar----");
